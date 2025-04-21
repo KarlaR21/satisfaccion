@@ -1,10 +1,8 @@
-// /docs/manifest.json
 {
   "name":        "CSAT Visualizations Package",
   "organization":"KarlaR21",
   "description": "Gráfico CSAT arranque vs avance con D3.js",
   "logoUrl":     "https://karlar21.github.io/satisfaccion/icon.png",
-  "packageUrl":  "https://github.com/KarlaR21/satisfaccion",
   "supportUrl":  "https://github.com/KarlaR21/satisfaccion/issues",
   "devMode":     true,
   "components": [
