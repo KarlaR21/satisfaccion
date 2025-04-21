@@ -1,0 +1,20 @@
+{
+    "name": "CSATVizD3",
+    "description": "Gráfico CSAT arranque vs avance con D3.js",
+    "resources": [
+      {
+        "name": "d3",
+        "url": "https://cdn.jsdelivr.net/npm/d3@7/+esm"
+      },
+      {
+        "name": "dscc",
+        "url": "https://unpkg.com/@google/dscc@latest/dist/dscc.min.js"
+      },
+      {
+        "name": "viz",
+        "url": "https://raw.githubusercontent.com/KarlaR21/satisfaccion/main/viz.js"
+      }
+    ],
+    "devMode": true
+  }
+  
