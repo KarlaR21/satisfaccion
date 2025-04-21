@@ -3,7 +3,7 @@
   "id": "csat_viz_d3",
   "version": "1.0.0",
   "description": "Gráfico CSAT arranque vs avance con D3.js",
-  "logoUrl": "https://raw.githubusercontent.com/KarlaR21/satisfaccion/main/icon.png",
+  "logoUrl": "https://raw.githubusercontent.com/KarlaR21/satisfaccion/refs/heads/main/icon.png",
   "packageUrl": "https://github.com/KarlaR21/satisfaccion",
   "supportUrl": "https://github.com/KarlaR21/satisfaccion/issues",
   "devMode": true,
