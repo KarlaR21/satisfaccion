@@ -1,14 +1,11 @@
 {
   "name":        "CSAT Visualizations Package",
-  "id":          "csat_viz_package",
-  "version":     "1.0.0",
   "organization":"KarlaR21",
   "description": "Gráfico CSAT arranque vs avance con D3.js",
   "logoUrl":     "https://karlar21.github.io/satisfaccion/icon.png",
   "packageUrl":  "https://github.com/KarlaR21/satisfaccion",
   "supportUrl":  "https://github.com/KarlaR21/satisfaccion/issues",
   "devMode":     true,
-  "configUrl":   "https://karlar21.github.io/satisfaccion/config.json",
   "components": [
     {
       "id":          "csat_d3_component",
@@ -16,7 +13,8 @@
       "description": "Visualización D3 del CSAT arranque vs avance",
       "iconUrl":     "https://karlar21.github.io/satisfaccion/icon.png",
       "resource": {
-        "js":        "https://karlar21.github.io/satisfaccion/viz.js"
+        "js":     "https://karlar21.github.io/satisfaccion/viz.js",
+        "config": "https://karlar21.github.io/satisfaccion/config.json"
       }
     }
   ]
