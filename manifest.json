@@ -1,21 +1,19 @@
 {
-  "name": "CSATVizD3",
-  "id": "csat_viz_d3",
-  "version": "1.0.0",
+  "name": "CSAT Visualizations Package",
+  "organization": "Karla Ruiz",
   "description": "Gráfico CSAT arranque vs avance con D3.js",
-  "resources": [
+  "logoUrl": "https://raw.githubusercontent.com/KarlaR21/satisfaccion/main/icon.png",
+  "supportUrl": "https://github.com/KarlaR21/satisfaccion/issues",
+  "devMode": true,
+  "components": [
     {
-      "name": "d3",
-      "url": "https://cdn.jsdelivr.net/npm/d3@7/+esm"
-    },
-    {
-      "name": "dscc",
-      "url": "https://unpkg.com/@google/dscc@latest/dist/dscc.min.js"
-    },
-    {
-      "name": "viz",
-      "url": "https://raw.githack.com/KarlaR21/satisfaccion/main/viz.js"
+      "id": "csat_viz_d3",
+      "name": "CSAT D3 Viz",
+      "description": "Visualización D3 del CSAT arranque vs avance",
+      "iconUrl": "https://raw.githubusercontent.com/KarlaR21/satisfaccion/main/icon.png",
+      "resource": {
+        "js": "https://raw.githubusercontent.com/KarlaR21/satisfaccion/main/viz.js"
+      }
     }
-  ],
-  "devMode": true
+  ]
 }
