@@ -1,7 +1,17 @@
-[ 
-  {
-    "name": "colorBueno",
-    "type": "COLOR",
-    "label": "Color zona 'Bueno'"
-  }
-]
+{
+  "dimensions": [
+    {
+      "name":  "dimension",
+      "label": "Dimensión",
+      "type":  "TEXT"
+    }
+  ],
+  "metrics": [
+    {
+      "name":  "metric",
+      "label": "Métrica",
+      "type":  "NUMBER"
+    }
+  ],
+  "style": []
+}
